@@ -1,0 +1,6 @@
+﻿  test.c
+C:\Users\11543\Documents\bite\c-language\code_230114\code_230114\test.c(126,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\11543\Documents\bite\c-language\code_230114\code_230114\test.c(126,12): message : 请考虑在格式字符串中使用“%zd”
+C:\Users\11543\Documents\bite\c-language\code_230114\code_230114\test.c(126,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“size_t”
+C:\Users\11543\Documents\bite\c-language\code_230114\code_230114\test.c(126,12): message : 请考虑在格式字符串中使用“%zd”
+  code_230114.vcxproj -> C:\Users\11543\Documents\bite\c-language\code_230114\x64\Debug\code_230114.exe
