@@ -1,0 +1,4 @@
+﻿  test.c
+C:\Users\11543\Documents\bite\c-language\code_231121\code_231121\test.c(6,10): warning C4477: “printf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 1 拥有了类型“int”
+C:\Users\11543\Documents\bite\c-language\code_231121\code_231121\test.c(6,10): warning C4313: "printf": 格式字符串中的 "%p" 与类型为 "int" 的参数 1 冲突
+  code_231121.vcxproj -> C:\Users\11543\Documents\bite\c-language\code_231121\x64\Debug\code_231121.exe
