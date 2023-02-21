@@ -1,0 +1,3 @@
+﻿  test.c
+C:\Users\11543\Documents\bite\c-language\code_230220\code_230220\test.c(5,8): warning C4133: “初始化”: 从“int *”到“char *”的类型不兼容
+  code_230220.vcxproj -> C:\Users\11543\Documents\bite\c-language\code_230220\x64\Debug\code_230220.exe
