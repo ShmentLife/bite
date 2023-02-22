@@ -1,0 +1,4 @@
+﻿  test.c
+C:\Users\11543\Documents\bite\c-language\code_230222\code_230222\test.c(5,7): warning C4047: “初始化”:“int *”与“int”的间接级别不同
+C:\Users\11543\Documents\bite\c-language\code_230222\code_230222\test.c(7,16): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+  code_230222.vcxproj -> C:\Users\11543\Documents\bite\c-language\code_230222\x64\Debug\code_230222.exe
