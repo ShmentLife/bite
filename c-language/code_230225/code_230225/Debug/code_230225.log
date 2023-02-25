@@ -1,0 +1,4 @@
+﻿  test.c
+C:\Users\11543\Documents\bite\c-language\code_230225\code_230225\test.c(140,5): warning C4013: “gets”未定义；假设外部返回 int
+C:\Users\11543\Documents\bite\c-language\code_230225\code_230225\test.c(141,18): warning C4013: “strlen”未定义；假设外部返回 int
+  code_230225.vcxproj -> C:\Users\11543\Documents\bite\c-language\code_230225\Debug\code_230225.exe
